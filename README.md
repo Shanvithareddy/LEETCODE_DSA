@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0118-pascals-triangle) |
 ## Bit Manipulation
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
