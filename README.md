@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
 ## Dynamic Programming
@@ -74,5 +75,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
