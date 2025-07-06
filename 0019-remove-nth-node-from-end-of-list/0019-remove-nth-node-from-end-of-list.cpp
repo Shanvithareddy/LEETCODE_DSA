@@ -28,14 +28,28 @@ public:
     }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         int k = getSize(head);
-        ListNode* elbef = giveAddr(head,k-n);
-        ListNode* el = giveAddr(head,k-n+1);
-        if(elbef == nullptr){
+        if(k-n == 0){
             head = head->next;
+            return head;
         }
-        else{
-            elbef->next = el->next;
+        ListNode* prev = head;
+        ListNode* curr = head->next;
+        int i =1;
+        while(i!= k-n){
+            prev = prev->next;
+            curr = curr->next;
+            i++;
         }
+        prev->next = curr->next;
+
+        // ListNode* elbef = giveAddr(head,k-n);
+        // ListNode* el = giveAddr(head,k-n+1);
+        // if(elbef == nullptr){
+        //     head = head->next;
+        // }
+        // else{
+        //     elbef->next = el->next;
+        // }
         return head;
     }
 };
