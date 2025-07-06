@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -157,10 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
