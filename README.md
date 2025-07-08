@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0120-triangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
