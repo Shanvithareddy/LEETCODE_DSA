@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0172-factorial-trailing-zeroes) |
 ## Memoization
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
