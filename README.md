@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0118-pascals-triangle) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 ## Tree
