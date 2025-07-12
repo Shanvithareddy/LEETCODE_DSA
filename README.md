@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0290-word-pattern) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0202-happy-number) |
 ## Memoization
 |  |
 | ------- |
