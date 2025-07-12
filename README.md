@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 ## Counting
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
