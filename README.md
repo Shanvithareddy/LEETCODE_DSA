@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
 | ------- |
