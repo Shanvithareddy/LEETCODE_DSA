@@ -1,17 +1,21 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        for(int i=0;i<ransomNote.length();i++){
-            int j;
-            for(j=0;j<magazine.length();j++){
-                if(magazine[j] == ransomNote[i]){
-                    magazine.erase(j,1);
-                    j = -1;
-                    break;
-                }
+        unordered_map<char,int> counts;
+        for(int i=0;i<magazine.length();i++){
+            if(counts.contains(magazine[i])){
+                counts[magazine[i]]++;
             }
-            // cout<<magazine<<","<<j<<endl;
-            if(j != -1) return false;
+            else{
+                counts[magazine[i]] = 1;
+            }
+        }
+        for(int i=0;i<ransomNote.length();i++){
+            if(counts.contains(ransomNote[i])){
+                counts[ransomNote[i]]--;
+                if(counts[ransomNote[i]]<0) return false;
+            }
+            else return false;
         }
         return true;
     }
