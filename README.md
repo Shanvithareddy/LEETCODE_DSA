@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0383-ransom-note) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
