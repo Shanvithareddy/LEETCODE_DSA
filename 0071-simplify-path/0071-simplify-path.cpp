@@ -15,11 +15,11 @@ public:
                     if(!dir.empty()) dir.pop();
                 }
                 else dir.push(s);
-                cout<<s<<endl;
+                // cout<<s<<endl;
                 s = "";
             }
         }
-        cout<<s<<endl;
+        // cout<<s<<endl;
 
         if(s.length() == 0);
         else if(s == ".") ;
