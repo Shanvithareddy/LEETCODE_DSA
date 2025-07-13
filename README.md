@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 ## Counting
