@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
