@@ -14,6 +14,8 @@ public:
                 intervals.erase(intervals.begin()+j);
                 j--;
             }
+            else if(j == i) continue;
+            else break;
             
         }
         return intervals;
