@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Linked List
 |  |
