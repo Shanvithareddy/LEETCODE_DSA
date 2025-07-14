@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0118-pascals-triangle) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
