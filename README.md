@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
