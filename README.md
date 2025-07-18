@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0945-snakes-and-ladders](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0945-snakes-and-ladders) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0945-snakes-and-ladders) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0289-game-of-life) |
+| [0945-snakes-and-ladders](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0945-snakes-and-ladders) |
 ## Tree
 |  |
 | ------- |
