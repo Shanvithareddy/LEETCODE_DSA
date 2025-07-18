@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0433-minimum-genetic-mutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0433-minimum-genetic-mutation) |
 ## String Matching
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0945-snakes-and-ladders) |
