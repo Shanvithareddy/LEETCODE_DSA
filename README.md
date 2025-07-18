@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0945-snakes-and-ladders](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0945-snakes-and-ladders) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0433-minimum-genetic-mutation) |
 ## String Matching
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0399-evaluate-division](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Union Find
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -281,4 +286,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
