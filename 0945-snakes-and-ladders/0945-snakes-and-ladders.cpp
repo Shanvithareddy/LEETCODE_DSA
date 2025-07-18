@@ -13,19 +13,19 @@ public:
         }
         return Nexts;
     }
-    void print(vector<int>& list){
-        for(auto el: list){
-            cout<<el<<",";
-        }
-        cout<<endl;
-    }
+    // void print(vector<int>& list){
+    //     for(auto el: list){
+    //         cout<<el<<",";
+    //     }
+    //     cout<<endl;
+    // }
     int bfs(vector<int>& currNodes, vector<int>& boardL ){
         set<int> covered;
         int level = 0;
         // bool found = false;
         while(!currNodes.empty()){
             int times = currNodes.size();
-                print(currNodes);
+                // print(currNodes);
             while(times > 0){
                 int curr = currNodes.front();
                 currNodes.erase(currNodes.begin());
