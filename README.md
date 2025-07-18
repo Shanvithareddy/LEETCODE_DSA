@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0141-linked-list-cycle) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0072-edit-distance) |
+| [0127-word-ladder](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shanvithareddy/LEETCODE_DSA/tree/master/0200-number-of-islands) |
